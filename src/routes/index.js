@@ -10,7 +10,7 @@ import {
 
 const Routes = () => {
   return (
-    <Router basename="/githubsearcher">
+    <Router basename="/app">
       <Route>
           <Switch>
             {menuRoutes.map(({ path, exact, component: Component }) => (
