@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="15px" viewBox="0 0 8 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>back arrow copy</title>
+    <g id="Mockup---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Collections-created-" transform="translate(-888.000000, -862.000000)" fill="#657480" fill-rule="nonzero">
+            <g id="container" transform="translate(280.000000, 242.000000)">
+                <g id="paginador" transform="translate(328.000000, 608.000000)">
+                    <g id="page1" transform="translate(284.000000, 20.000000) scale(-1, 1) translate(-284.000000, -20.000000) translate(264.000000, 0.000000)">
+                        <path d="M14.881097,16.3013577 C14.4308949,15.8803788 13.723914,15.9032694 13.3020109,16.3524853 C12.8801078,16.8017012 12.9030487,17.5071334 13.3532508,17.9281123 L19.078778,23.2819872 C19.5001188,23.6759783 20.1529438,23.6846519 20.5846488,23.3019946 L26.6247653,17.9481196 C27.0860415,17.5392509 27.1277984,16.8346783 26.718032,16.3744126 C26.3082656,15.914147 25.6021461,15.8724816 25.14087,16.2813503 L19.8628366,20.9597254 L14.881097,16.3013577 Z" id="back-arrow-copy" transform="translate(20.000000, 19.791667) rotate(90.000000) translate(-20.000000, -19.791667) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
